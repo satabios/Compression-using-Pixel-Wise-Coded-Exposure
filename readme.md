@@ -1,8 +1,8 @@
 # Universal Pixel-Wise Coded Exposure
 
-![Screenshot]('./images/pixel-wise.png')
+![Alt text]('images/pixel-wise.png')
 
-![Screenshot]('./images/sensing matrix.png')
+![Alt text]('images/sensing-matrix.png')
 
 If you find this tool useful, don't forget to cite us. Happy compressing.
 
