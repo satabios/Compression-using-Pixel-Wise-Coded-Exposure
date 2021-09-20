@@ -4,7 +4,7 @@
 
 ![Alt text](images/sensing-matrix.png?raw=true "Title")
 
-The compression is accounted for real-time camera compression*(real_time_compression_tx2)* and universal compression engine *(read_buffer_compression)*.
+The compression is accounted for real-time camera compression **(real_time_compression_tx2)** and universal compression engine **(read_buffer_compression)**.
 If you find this tool useful, don't forget to cite us. Happy compressing.
 
 ## Cite us:
