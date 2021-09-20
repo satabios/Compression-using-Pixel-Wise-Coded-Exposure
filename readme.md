@@ -1,8 +1,8 @@
 # Universal Pixel-Wise Coded Exposure
 
-![Alt text]('images/pixel-wise.png'?raw=true "Title")
+![Alt text](images/pixel-wise.png?raw=true "Title")
 
-![Alt text]('images/sensing-matrix.png'?raw=true "Title")
+![Alt text](images/sensing-matrix.png?raw=true "Title")
 
 If you find this tool useful, don't forget to cite us. Happy compressing.
 
