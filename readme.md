@@ -8,6 +8,9 @@ If you find this tool useful, don't forget to cite us. Happy compressing.
 
 ## References
 <a id="1">[1]</a> 
-Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148.
+@article{narayanan2019compressive,
+  title={A Compressive Sensing Video dataset using Pixel-wise coded exposure},
+  author={Narayanan, Sathyaprakash and Bethi, Yeshwanth and Thakur, Chetan Singh},
+  journal={arXiv preprint arXiv:1905.10054},
+  year={2019}
+}
