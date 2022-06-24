@@ -5,6 +5,9 @@
 ![Alt text](images/sensing-matrix.png?raw=true "Title")
 
 The compression is accounted for real-time camera compression **(real_time_compression_tx2)** and universal compression engine **(read_buffer_compression)**.
+
+The available code is intended for video compression, however can be extended for any dimension of data from audio to 4D videos(This code will be updated soon).
+
 If you find this tool useful, don't forget to cite us. Happy compressing.
 
 ## Cite us:
